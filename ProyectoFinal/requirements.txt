@@ -1,8 +1,0 @@
-
-langchain==0.3.27
-langchain-openai==0.3.33
-langfuse==3.3.6
-openai==1.109.1
-pydantic==2.11.7
-python-dotenv==1.1.1
-Pillow==11.3.0
