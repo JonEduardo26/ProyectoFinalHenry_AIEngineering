@@ -1,0 +1,3 @@
+"""
+LegalMove Contract Comparison package.
+"""
